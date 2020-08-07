@@ -9,19 +9,19 @@ var cardOne;
 cards[0] = 'cardOne';
 
 cardsInPlay.push('cardOne');
-console.log("User flipped queen")
+console.log("User flipped queen");
 
 cards[1] = 'cardTwo';
 
 cardsInPlay.push('cardTwo');
-console.log("User flipped queen")
+console.log("User flipped queen");
 
 cards[2] = 'cardThree';
 
 cardsInPlay.push('cardThree');
-console.log("User flipped king")
+console.log("User flipped king");
 
 cards[3] = 'cardFour';
 
 cardsInPlay.push('cardFour');
-console.log("User flipped king")
+console.log("User flipped king");
